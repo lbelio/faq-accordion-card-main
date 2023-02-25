@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%) );
+    display: flex;
+    justify-content: center;
+ }
+
+ .faq-container {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    border-style: none;
+    border-radius: 2rem;
+ }
+
+ .faq-container img {
+    position: relative;
+    right: 50px;
+ }
