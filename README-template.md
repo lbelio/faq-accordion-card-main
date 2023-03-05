@@ -1,7 +1,6 @@
 # Frontend Mentor - FAQ accordion card solution
 
-This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). 
 ## Table of contents
 
 - [Overview](#overview)
@@ -16,7 +15,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -52,41 +50,36 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I selected this challenge as my first challenge which includes Javascript. Little did I know that the real struggle was going to be the CSS! At first I tackled the project as I normally would, laying out the HTML foundations, then moving on to CSS. Of course, I did not expect this project to be easy breezing seeing as this is only my 3rd attempt at a FrontEndMentor challenge, however, it was quite the surprise to discover that something as simple as a FAQ card could be so finicky! 
 
-To see how you can add code snippets, see below:
+I finally understood why there are so many memes related to positioning things with CSS. The SVG elements in this challenge turned out to be a real nemesis. While I did attempt at positioning the orange box over exactly where it needed to go, and I tried to find the correct way to 
+add the shadow behind the main SVG element, I realised that I'll learn a lot more if I give myself a chance to learn from someone a lot more experienced. 
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+So I found a CoderCoder vide on this particular project and I chose to code-along with her. I am well aware that many people recommend NOT to rely on code-alongs and I agree, which is why I chose to make notes while coding along. I learned an immense amount from CoderCoder.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Firstly, I love the fact that one of the first things she says is that she has no idea how to make an accordion, so she reverse engineers a bootstrap example and applies it to this project. (definitely keeping this tip for future use). 
+
+Major things i learned:
+
+- Understand the purpose of ::after, ::before
+- Better understanding of siblings and parents
+- The usage of class specificity and its proper syntax.
+- troubleshooting! this was major for me. It really helps seeing how professionals go about working out an issue.
+- 
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will continue to work with CSS, specifically positioning and using properties like: position and display. Need to gain better understanding of their proper usage. Transform: translate is another property I'd like to get to grips with more as well.
+
+The Javascript of this project was rather confusing with the seemingly overly complicated way to open up each segment of the accordion. I will definitely play around with that.
+
+I should also revisit :focus and focus-visible properties.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
@@ -95,18 +88,13 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
