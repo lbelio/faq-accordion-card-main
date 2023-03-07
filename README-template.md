@@ -36,8 +36,6 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -59,19 +57,19 @@ I selected this challenge as my first challenge which includes Javascript. Littl
 I finally understood why there are so many memes related to positioning things with CSS. The SVG elements in this challenge turned out to be a real nemesis. While I did attempt at positioning the orange box over exactly where it needed to go, and I tried to find the correct way to 
 add the shadow behind the main SVG element, I realised that I'll learn a lot more if I give myself a chance to learn from someone a lot more experienced. 
 
-So I found a CoderCoder vide on this particular project and I chose to code-along with her. I am well aware that many people recommend NOT to rely on code-alongs and I agree, which is why I chose to make notes while coding along. I learned an immense amount from CoderCoder.
+So I found a CoderCoder video on this particular project and I chose to code-along with her. I am well aware that many people recommend NOT to rely on code-alongs and I agree, which is why I chose to make notes while coding along. I learned an immense amount from CoderCoder.
 
 Firstly, I love the fact that one of the first things she says is that she has no idea how to make an accordion, so she reverse engineers a bootstrap example and applies it to this project. (definitely keeping this tip for future use). 
 
+It also helps seeing someone's approach to a new projects and their workflow. I seem to struggle to visualise how to approach a project so following along gives me a better idea on how to do so. 
+
 Major things i learned:
 
-- Understand the purpose of ::after, ::before
-- Better understanding of siblings and parents
+- Understand the purpose of ::after, ::before.
+- Better understanding of siblings and parents.
 - The usage of class specificity and its proper syntax.
-- troubleshooting! this was major for me. It really helps seeing how professionals go about working out an issue.
-- 
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+- a way to approach a project and general workflow.
+- troubleshooting! this was major for me. It really helps seeing how professionals go about working out an issue. CoderCoder spends a long time working out the accordion expanding and collapsing using Javascript. I will have to look back to this part to make sure i fully understand. 
 
 ### Continued development
 
@@ -79,22 +77,10 @@ I will continue to work with CSS, specifically positioning and using properties 
 
 The Javascript of this project was rather confusing with the seemingly overly complicated way to open up each segment of the accordion. I will definitely play around with that.
 
-I should also revisit :focus and focus-visible properties.
+I should also revisit :focus and focus-visible properties. 
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- [CoderCoder Youtube Channel](https://www.youtube.com/watch?v=sr94O6Y5NEA&ab_channel=CoderCoder) - This is the CoderCoder video i followed. 
